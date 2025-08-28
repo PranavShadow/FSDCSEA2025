@@ -1,0 +1,7 @@
+p:nth-child(5){
+    background-color: red;
+    color: white;
+}
+p:nth-of-type(6) {
+  color: green;
+}
